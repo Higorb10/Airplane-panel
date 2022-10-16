@@ -1,0 +1,34 @@
+body{
+    color: chartreuse;
+}
+#horizonte {
+    width: 50ch;
+    height: 50ch;
+    border: 10px solid black;
+    border-radius: 20px;
+    box-align: center;
+}
+/*parte superior do horizonte*/
+#sky {
+    width: 50ch;
+    border-top: 25ch solid rgb(103, 103, 150);
+}
+
+#row {
+    margin-top: -25ch;
+    height: 400px;
+    width: 400px;
+    border: 3px solid black;
+    border-radius: 400px;
+}
+
+#terrain {
+    margin: 0ch;
+    width: 50ch;
+    border-bottom: 25ch solid rgb(109, 4, 4);
+}
+
+#airplane {
+    width: 50ch  solid red;
+    border: 200px;
+}
